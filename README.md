@@ -8,18 +8,12 @@
 - 📄 Reach me via [LinkedIn!](https://www.linkedin.com/in/liam-coombs/)
 
 <h1></h1>
-
 <h3 align="left">Some fun stats!</h3>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coombszy&show_icons=true&theme=dark&locale=en&layout=compact" alt="coombszy" />
-</p>
-<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=coombszy&theme=dark" alt="coombszy" />
-</p> 
-<p>
   <img src="https://github-readme-stats.vercel.app/api?username=coombszy&show_icons=true&theme=dark&locale=en" alt="coombszy" />
-</p>
- 
+</p> 
+<h3 align="left">And some neat trophies!</h3>
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coombszy&theme=onedark&column=8" alt="coombszy" />
   </a>
