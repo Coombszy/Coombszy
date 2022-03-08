@@ -22,4 +22,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=coombszy&show_icons=true&theme=dark&locale=en" alt="coombszy" />
 </p>
  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coombszy&theme=onedark" alt="coombszy" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coombszy&theme=onedark&column=8" alt="coombszy" />
+  </a>
+</p>
