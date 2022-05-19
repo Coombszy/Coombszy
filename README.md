@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on (...Now and Then) [Coombszy/Notify](https://github.com/Coombszy/notify)
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Rust** 🦀
 
 - 📄 Reach me via [LinkedIn!](https://www.linkedin.com/in/liam-coombs/)
 
