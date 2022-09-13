@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Liam!</h1>
 <h3 align="center">Developer and DevOps engineer</h3>
 
-- 🔭 I’m currently working on (...Now and Then) [Coombszy/Notify](https://github.com/Coombszy/notify)
+- 🔭 I’m currently working on (...Now and Then) [Coombszy/Notify](https://github.com/Coombszy/notify) and [Coombszy/Conga](https://github.com/Coombszy/conga)
 
 - 🌱 I’m currently learning **Rust** 🦀
 
