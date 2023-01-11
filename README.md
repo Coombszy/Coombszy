@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on (...Now and Then) [Coombszy/Hypnos](https://github.com/Coombszy/hypnos) and [Coombszy/Conga](https://github.com/Coombszy/conga)
 
-- 🌱 I’m currently learning **Rust** 🦀
+- 🌱 I’m currently learning **C**
 
 - 📄 Reach me via [LinkedIn!](https://www.linkedin.com/in/liam-coombs/)
 
