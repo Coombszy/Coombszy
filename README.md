@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Liam!</h1>
 <h3 align="center">Developer and DevOps engineer</h3>
-
-- 🔭 I’m currently working on (...Now and Then) [Coombszy/Wayfinder](https://github.com/Coombszy/wayfinder)
-
-- 🌱 I’m currently upskilling **C++**
-
-- 📄 Reach me via [LinkedIn!](https://www.linkedin.com/in/liam-coombs/)
+<h4 align="center">📄 Reach me via <a href="https://www.linkedin.com/in/liam-coombs/">LinkedIn!</a></h4>
 
 <h1></h1>
 <h3 align="left">Some fun stats!</h3>
